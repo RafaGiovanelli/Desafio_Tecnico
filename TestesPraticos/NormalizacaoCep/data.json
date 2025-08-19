@@ -1,0 +1,88 @@
+{
+  "customers": [
+    {
+      "id": "123",
+      "name": "João",
+      "email": "joao@example.com",
+      "age": 30,
+      "address": {
+        "zipCode": "03389030",
+        "city": "São Paulo",
+        "state": "SP",
+        "street": "Rua José Ingenieros"
+      }
+    },
+    {
+      "id": "124",
+      "name": "Maria",
+      "email": "maria@example.com",
+      "age": 25,
+      "address": {
+        "zipCode": "02022010",
+        "city": "São Paulo",
+        "state": "SP",
+        "street": "Avenida Braz Leme"
+      }
+    },
+    {
+      "id": "125",
+      "name": "Carlos",
+      "email": "carlos@example.com",
+      "age": 28,
+      "address": {
+        "zipCode": "05319020",
+        "city": "São Paulo",
+        "state": "SP",
+        "street": "Rua Blumenau"
+      }
+    },
+    {
+      "id": "126",
+      "name": "Ana",
+      "email": "ana@example.com",
+      "age": 22,
+      "address": {
+        "zipCode": "20231040",
+        "city": "",
+        "state": "",
+        "street": ""
+      }
+    },
+    {
+      "id": "127",
+      "name": "Roberto",
+      "email": "roberto@example.com",
+      "age": 35,
+      "address": {
+        "zipCode": "22290060",
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "street": "Praça Ozanan"
+      }
+    },
+    {
+      "id": "128",
+      "name": "Fernanda",
+      "email": "fernanda@example.com",
+      "age": 32,
+      "address": {
+        "zipCode": "89201005",
+        "city": "",
+        "state": "",
+        "street": ""
+      }
+    },
+    {
+      "id": "129",
+      "name": "Lucas",
+      "email": "lucas@example.com",
+      "age": 27,
+      "address": {
+        "zipCode": "88015100",
+        "city": "Florianópolis",
+        "state": "SC",
+        "street": "Avenida Prefeito Osmar Cunha"
+      }
+    }
+  ]
+}
