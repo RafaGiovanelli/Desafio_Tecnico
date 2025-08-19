@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.5.0",
+    "chalk-animation": "^2.0.3",
+    "cli-table3": "^0.6.5",
+    "inquirer": "^12.9.1",
+    "ora": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.9",
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "scripts": {
+    "start": "ts-node --esm index.ts",
+    "start-zipcode-normalization": "ts-node --esm ./TestesPraticos/NormalizacaoCep/zipcodeNormalization.ts",
+    "start-data-management": "ts-node --esm ./TestesPraticos/GerenciadorDeDados/dataManagement.ts"
+  }
+}
